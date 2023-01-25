@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdealijivaji
 - 👀 I’m interested in giant viruses & virophages 
-- 🌱 I’m currently doing my PhD in periplasmic localisation of aromatic degrading proteins. 
+- 🌱 I’m currently doing my PhD working on Giant viruses in the aylward lab 
 - 💞️ I’m looking to collaborate on various methods to isolated virophage signatures in eukaryotic genome
 - 📫 How to reach me drop me an email on abujivaji@gmail.com
 
